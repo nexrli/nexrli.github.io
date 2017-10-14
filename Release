@@ -1,8 +1,8 @@
 Origin: Nexrli
-Label: Nexrli's Repo
+Label: Nexrli
 Suite: stable
-Version: 1.0
+Version: 1.0-1
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Tweaks are great arent they?
+Description: Beta Tweaks, and more!
